@@ -6,7 +6,7 @@ var mocha = new Mocha({
 		reportDir : '../ApiTest/Reports/',
 		reportFilename : 'ApiReport',
 		reportDir : '../ApiReport',
-		reportPageTitle : "CP Api Automation Report",
+		reportPageTitle : "Api Automation Report",
 		reportTitle : 'Api Reports',
 		autoOpen : true,
 	},
