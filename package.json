@@ -6,7 +6,7 @@
     "test": "mocha 'Tests/*.js'",
     "posttest": "open 'mochawesome-report/mochawesome.html'"
   },
-  "author": "Parag Jathar - QA@callpotential.com",
+  "author": "Mihir Rathod",
   "license": "ISC",
   "dependencies": {
     "assert": "^1.0.0",
